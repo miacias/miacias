@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Much of my recent public work has come from boot camp, intensive weekly challenges inspired by learning MERN full stack development.
+
 <!--
 **miacias/miacias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
