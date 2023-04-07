@@ -41,6 +41,7 @@ Statistics Credit: <a href='https://github.com/anuraghazra/github-readme-stats'>
 
 <!-- tools I use -->
 <h2>Tools I Use</h2>
+<br>
 ![TOOLS I USE](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
 <br>
 ![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
