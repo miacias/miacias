@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=miacias)](https://github.com/miacias/github-readme-stats)
 
 <!--  icons-->
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=miacias&show_icons=true)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=miacias&show_icons=true&theme=tokyonight)
