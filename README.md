@@ -53,5 +53,5 @@ Statistics Credit: [Anurag Hazra](https://github.com/anuraghazra/github-readme-s
 ![Json](https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
-![Windows](https://shields.io/badge/Windows--9cf?logo=Windows&style=flat)
-![Mac](https://shields.io/badge/MacOS--9cf?logo=Apple&style=flat)
+![Windows](https://shields.io/badge/Windows?logo=Windows&style=flat)
+![Mac](https://shields.io/badge/MacOS?logo=Apple&style=flat)
