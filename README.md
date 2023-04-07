@@ -18,5 +18,12 @@ Here are some ideas to get you started:
 -->
 
 
-<!--  icons-->
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=miacias&show_icons=true&theme=tokyonight)
+<!-- icons -->
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=miacias&show_icons=true&theme=transparent)
+
+<!-- top languages -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miacias)](https://github.com/miacias/github-readme-stats) -->
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miacias&langs_count=8)](https://github.com/miacias/github-readme-stats) -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miacias&hide_progress=true&langs_count=8)](https://github.com/miacias/github-readme-stats)
