@@ -1,25 +1,36 @@
-### Welcome to my GitHub!
+<h1>Welcome to my GitHub!</h1>
+
+Thanks for stopping by! 
 
 <details>
-  <summary>Thanks for stopping by! Here's a bit about me:</summary>
+  <summary><h2>Here's a bit about me:</h2></summary>
   <ul>
     <li>💬 Ask me about: <b> Art | Gaming | Streaming | Dogs | Music </b></li>
     <!-- - 🔭 I’m currently working on ... -->
     <!-- - 🌱 I’m currently learning ... -->
     <!-- - 👯 I’m looking to collaborate on ... -->
     <!-- - 🤔 I’m looking for help with ... -->
-    <!-- - 📫 How to reach me: ... -->
-    <!-- - 😄 Pronouns: ... -->
-    <li>⚡ Fun facts:</li>
+    <li>📫 How to reach me: [miaciasullo@gmail.com](mailto:miaciasullo@gmail.com)</li>
+<!--     <li> 😄 Pronouns: </li> -->
+    <li>⚡ Fun fact: *Besides programming, I'm also a linguist and a French teacher, and I love to try new things.*</li>
   </ul>
 </details>
 
 
-
+<h2> Connect with me on 👇</h2>
+<a href="https://www.linkedin.com/in/miaciasullo/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn--blue" />
+</a>
+</a> 
+<a href="https://leetcode.com/miacias/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode--blue" />
+</a>
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=miacias&style=flat&color=orange&label=PROFILE+VIEWS)
 
 <hr>
+
+<h2>My Work</h2>
 
 Much of my recent public work has come from boot camp, intensive weekly challenges inspired by learning MERN full stack development. Here's some stats about my recent work!
 
