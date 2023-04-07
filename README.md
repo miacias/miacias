@@ -69,7 +69,7 @@ Statistics Credit: <a href='https://github.com/anuraghazra/github-readme-stats'>
 ![Mac](https://shields.io/badge/MacOS--9cf?logo=Apple&style=flat)
 
 
-<h3 align="center">Helpers</h3>
+<h3 align="center">Cheat Sheets!</h3>
 
 <div align="center">
 
