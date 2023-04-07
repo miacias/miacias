@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Totals Hits](https://komarev.com/ghpvc/?username=miacias&style=flat&color=orange&label=PROFILE+VIEWS)
 
 
 <!-- icons -->
