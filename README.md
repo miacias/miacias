@@ -14,6 +14,9 @@ Thanks for stopping by!
   <li>⚡ Fun fact: *Besides programming, I'm also a linguist and a French teacher, and I love to try new things.*</li>
 </ul>
 
+<!-- total profile views -->
+![Totals Hits](https://komarev.com/ghpvc/?username=miacias&style=flat&color=orange&label=PROFILE+VIEWS)
+
 <h2> Connect with me on 👇</h2>
 <a href="https://www.linkedin.com/in/miaciasullo/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn--blue" />
@@ -23,16 +26,14 @@ Thanks for stopping by!
 <img src="https://img.shields.io/badge/LeetCode--blue" />
 </a>
 
-![Totals Hits](https://komarev.com/ghpvc/?username=miacias&style=flat&color=orange&label=PROFILE+VIEWS)
-
 <h2>My Work</h2>
 
 Much of my recent public work has come from boot camp, intensive weekly challenges inspired by learning MERN full stack development. Here's some stats about my recent work!
 
-<!-- icons -->
+<!-- github statistics with icons -->
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=miacias&show_icons=true&icon_color=FDF58D&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-<!-- top languages -->
+<!-- github statistics with top languages -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miacias&langs_count=8&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/miacias/github-readme-stats)
 
 <!-- tools I use -->
