@@ -73,7 +73,7 @@ Statistics Credit: <a href='https://github.com/anuraghazra/github-readme-stats'>
 
 <div align="center">
 
-| URL      |
+| Helpers by LifeParticle     |
 | ----------- |
 | [Terminal-Commands-Cheatsheet](https://github.com/lifeparticle/Terminal-Commands-Cheatsheet)  |
 | [Git-Cheatsheet](https://github.com/lifeparticle/Git-Cheatsheet)                              |
