@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=miacias&show_icons=true&theme=transparent&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 <!-- top languages -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miacias&langs_count=8)](https://github.com/miacias/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miacias&langs_count=8&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/miacias/github-readme-stats)
