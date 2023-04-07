@@ -31,7 +31,7 @@ Thanks for stopping by!
 Much of my recent public work has come from boot camp, intensive weekly challenges inspired by learning MERN full stack development. Here's some stats about my recent work!
 
 <!-- test -->
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=miacias&show_icons=true&icon_color=FDF58D&bg_color=30,F7C749,F89449,FA7F60,DF5A77,5F2A67&title_color=fff&text_color=fff)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=miacias&show_icons=true&icon_color=FDF58D&bg_color=30,F7C749,FA7F60,DF5A77,5F2A67&title_color=fff&text_color=fff)
 
 <!-- github statistics with icons -->
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=miacias&show_icons=true&icon_color=FDF58D&bg_color=30,e96443,904e95,5F2A67&title_color=fff&text_color=fff)
