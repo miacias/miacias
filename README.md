@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 <!-- icons -->
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=miacias&show_icons=true&icon_color=fff&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=miacias&show_icons=true&icon_color=FDF58D&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 <!-- top languages -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miacias&langs_count=8&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/miacias/github-readme-stats)
