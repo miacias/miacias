@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to my GitHub!
 
 Much of my recent public work has come from boot camp, intensive weekly challenges inspired by learning MERN full stack development. Here's some stats about my recent work!
 
