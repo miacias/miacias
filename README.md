@@ -40,8 +40,7 @@ Much of my recent public work has come from boot camp, intensive weekly challeng
 Statistics Credit: <a href='https://github.com/anuraghazra/github-readme-stats'>Anurag Hazra</a>
 
 <!-- languages I use -->
-### Languages I Use
-<!-- ![LANGUAGES I USE](https://img.shields.io/badge/-%F0%9F%9A%80%20Languages%20I%20use-orange) -->
+![LANGUAGES I USE](https://img.shields.io/badge/-%F0%9F%9A%80%20Languages%20I%20use-orange)
 <br>
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 ![Typescript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat)
@@ -53,8 +52,7 @@ Statistics Credit: <a href='https://github.com/anuraghazra/github-readme-stats'>
 ![Json](https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white)
 <br>
 <!-- tools I use -->
-### Tools I Use
-<!-- ![TOOLS I USE](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange) -->
+![TOOLS I USE](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
 <br>
 ![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
