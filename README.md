@@ -2,7 +2,6 @@
 
 Thanks for stopping by! 
 
-
 <h2>Here's a bit about me:</h2>
 <ul>
   <li>💬 Ask me about: <b> Art | Gaming | Streaming | Dogs | Music </b></li>
@@ -15,7 +14,6 @@ Thanks for stopping by!
   <li>⚡ Fun fact: *Besides programming, I'm also a linguist and a French teacher, and I love to try new things.*</li>
 </ul>
 
-
 <h2> Connect with me on 👇</h2>
 <a href="https://www.linkedin.com/in/miaciasullo/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn--blue" />
@@ -26,8 +24,6 @@ Thanks for stopping by!
 </a>
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=miacias&style=flat&color=orange&label=PROFILE+VIEWS)
-
-<hr>
 
 <h2>My Work</h2>
 
@@ -40,10 +36,8 @@ Much of my recent public work has come from boot camp, intensive weekly challeng
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miacias&langs_count=8&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/miacias/github-readme-stats)
 
 <!-- tools I use -->
-<details>
-  <summary>![TOOLS I USE](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)</summary>
-  <div>
-    ![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+![TOOLS I USE](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
+![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 ![Typescript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
@@ -56,7 +50,3 @@ Much of my recent public work has come from boot camp, intensive weekly challeng
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
 ![Windows](https://shields.io/badge/Windows--9cf?logo=Windows&style=social)
 ![Mac](https://shields.io/badge/MacOS--9cf?logo=Apple&style=social)
-  </div>
-</details>
-
-
