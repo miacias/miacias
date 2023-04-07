@@ -11,7 +11,7 @@ Thanks for stopping by!
   <!-- - 🤔 I’m looking for help with ... -->
   <li>📫 How to reach me: <a href="mailto:miaciasullo@gmail.com"><b>Email!</b></a></li>
 <!--     <li> 😄 Pronouns: </li> -->
-  <li>⚡ Fun fact: *Besides programming, I'm also a linguist and a French teacher, and I love to try new things.*</li>
+  <li>⚡ Fun fact: <i>Besides programming, I'm also a linguist and a French teacher, and I love to try new things.</i></li>
 </ul>
 
 <!-- total profile views -->
