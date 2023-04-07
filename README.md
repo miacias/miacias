@@ -36,7 +36,7 @@ Much of my recent public work has come from boot camp, intensive weekly challeng
 <!-- github statistics with top languages -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miacias&langs_count=8&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/miacias/github-readme-stats)
 <br>
-Credit: [Anurag Hazra](https://github.com/anuraghazra/github-readme-stats)
+Statistics Credit: [Anurag Hazra](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- tools I use -->
 ![TOOLS I USE](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
