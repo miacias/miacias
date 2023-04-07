@@ -15,7 +15,7 @@ Thanks for stopping by!
 </ul>
 
 <!-- total profile views -->
-![Totals Hits](https://komarev.com/ghpvc/?username=miacias&style=flat&color=orange&label=PROFILE+VIEWS)
+![Totals Hits](https://komarev.com/ghpvc/?username=miacias&style=flat&color=orange&label=visitors)
 
 <h2> Connect with me on 👇</h2>
 <a href="https://www.linkedin.com/in/miaciasullo/" target="_blank">
