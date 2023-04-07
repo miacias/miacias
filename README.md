@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Much of my recent public work has come from boot camp, intensive weekly challenges inspired by learning MERN full stack development.
+Much of my recent public work has come from boot camp, intensive weekly challenges inspired by learning MERN full stack development. Here's some stats about my recent work!
 
 <!--
 **miacias/miacias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
