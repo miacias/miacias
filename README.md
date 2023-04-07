@@ -9,7 +9,7 @@ Thanks for stopping by!
   <!-- - 🌱 I’m currently learning ... -->
   <!-- - 👯 I’m looking to collaborate on ... -->
   <!-- - 🤔 I’m looking for help with ... -->
-  <li>📫 How to reach me: <a href="mailto:miaciasullo@gmail.com">Email please!</a></li>
+  <li>📫 How to reach me: <a href="mailto:miaciasullo@gmail.com"><b>Email!</b></a></li>
 <!--     <li> 😄 Pronouns: </li> -->
   <li>⚡ Fun fact: *Besides programming, I'm also a linguist and a French teacher, and I love to try new things.*</li>
 </ul>
