@@ -60,7 +60,7 @@ Statistics Credit: <a href='https://github.com/anuraghazra/github-readme-stats'>
 ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-43853d?style=flat&logo=Node.js&logoColor=white)
 ![React](https://shields.io/badge/react-black?logo=react&style=flat)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-282C34?style=flat&logo=jest&logoColor=C21325)
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black)
 ![Google Cloud Platform](https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat&logo=google-cloud&logoColor=white")
