@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miacias&langs_count=8&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/miacias/github-readme-stats)
 
 <!-- tools I use -->
-![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
+![tools_I_use:](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 ![Json](https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white)
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
