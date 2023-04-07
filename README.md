@@ -38,7 +38,7 @@ Much of my recent public work has come from boot camp, intensive weekly challeng
 
 <br>
 Statistics Credit: 
-[Anurag Hazra](https://github.com/anuraghazra/github-readme-stats)
+![Anurag Hazra](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- tools I use -->
 ![TOOLS I USE](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
