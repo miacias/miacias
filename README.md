@@ -82,7 +82,7 @@ Statistics Credit: <a href='https://github.com/anuraghazra/github-readme-stats'>
 <br>
 ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=flat&logo=edX&logoColor=white)
 ![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=flat&logo=mdnwebdocs&logoColor=white)
-![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-orange?style=flat)
+![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-red?style=flat)
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?style=flat&logo=freecodecamp&logoColor=green)
 ![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=flat&logo=geeksforgeeks&logoColor=35914c)
 ![SoloLearn](https://img.shields.io/badge/SoloLearn-blue?style=flat)
