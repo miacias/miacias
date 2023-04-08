@@ -78,7 +78,7 @@ Statistics Credit: <a href='https://github.com/anuraghazra/github-readme-stats'>
 ![Mac](https://shields.io/badge/MacOS--9cf?logo=Apple&style=flat)
 <br>
 <!-- education program -->
-![Built by](https://img.shields.io/badge/-%F0%9F%9A%80%20SBuilt%20By-orange)
+![Built by](https://img.shields.io/badge/-%F0%9F%9A%80%20Built%20By-orange)
 <br>
 ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=flat&logo=edX&logoColor=white)
 ![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=flat&logo=mdnwebdocs&logoColor=white)
