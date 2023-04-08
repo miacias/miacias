@@ -4,7 +4,7 @@ Thanks for stopping by!
 
 <h2>Here's a bit about me:</h2>
 <ul>
-  <li>💬 Ask me about: <b> Art | Gaming | Streaming | Dogs | Music </b></li>
+  <li>💬 Ask me about: <b> Art | Overwatch 2 | Streaming | Dogs | Music </b></li>
   <!-- - 🔭 I’m currently working on ... -->
   <!-- - 🌱 I’m currently learning ... -->
   <!-- - 👯 I’m looking to collaborate on ... -->
@@ -44,7 +44,9 @@ Statistics Credit: <a href='https://github.com/anuraghazra/github-readme-stats'>
 <br>
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 ![Typescript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)
 ![MySQL](https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=flat&logoColor=white&labelColor=blue)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=Sequelize&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat&logo=mongodb&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -59,19 +61,29 @@ Statistics Credit: <a href='https://github.com/anuraghazra/github-readme-stats'>
 ![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat&logo=insomnia&logoColor=white)
 ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-43853d?style=flat&logo=Node.js&logoColor=white)
+![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat=express&logoColor=%2361DAFB)
 ![React](https://shields.io/badge/react-black?logo=react&style=flat)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-282C34?style=flat&logo=jest&logoColor=C21325)
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black)
 ![Google Cloud Platform](https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat&logo=google-cloud&logoColor=white")
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white)
+![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=flat&logo=zoom&logoColor=white)
+![OnePlus](https://img.shields.io/badge/OnePlus-%23F5010C.svg?style=flat&logo=oneplus&logoColor=white)
 ![Windows](https://shields.io/badge/Windows--9cf?logo=Windows&style=flat)
 ![Mac](https://shields.io/badge/MacOS--9cf?logo=Apple&style=flat)
 <br>
 <!-- education program -->
-![Started learning at](https://img.shields.io/badge/-%F0%9F%9A%80%20Started%20Learning%20At-orange)
+![Built by](https://img.shields.io/badge/-%F0%9F%9A%80%20SBuilt%20By-orange)
 <br>
 ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=flat&logo=edX&logoColor=white)
+![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=flat&logo=mdnwebdocs&logoColor=white)
+![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=flat&logo=freecodecamp&logoColor=green)
+![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=flat&logo=geeksforgeeks&logoColor=35914c)
 
 
 <h3 align="center">Cheat Sheets!</h3>
