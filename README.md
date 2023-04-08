@@ -12,6 +12,7 @@ Thanks for stopping by!
   <li>📫 How to reach me: <a href="mailto:miaciasullo@gmail.com"><b>Email!</b></a></li>
 <!--     <li> 😄 Pronouns: </li> -->
   <li>⚡ Fun fact: <i>Besides programming, I'm also a linguist and a French teacher, and I love to try new things.</i></li>
+  ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
 </ul>
 
 <!-- total profile views -->
