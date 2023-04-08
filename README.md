@@ -84,7 +84,7 @@ Statistics Credit: <a href='https://github.com/anuraghazra/github-readme-stats'>
 ![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=flat&logo=mdnwebdocs&logoColor=white)
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=flat&logo=freecodecamp&logoColor=green)
 ![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=flat&logo=geeksforgeeks&logoColor=35914c)
-![SoloLearn](https://img.shields.io/badge/SoloLearn?color=blue&style=flat)
+![SoloLearn](https://img.shields.io/badge/SoloLearn-blue?style=flat)
 
 
 <h3 align="center">Cheat Sheets!</h3>
