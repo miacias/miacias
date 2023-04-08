@@ -13,7 +13,6 @@ Thanks for stopping by!
 <!--     <li> 😄 Pronouns: </li> -->
   <li>⚡ Fun fact: <i>Besides programming, I'm also a linguist and a French teacher, and I love to try new things.</i></li>
 </ul>
-![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
 
 <!-- total profile views -->
 ![Totals Hits](https://komarev.com/ghpvc/?username=miacias&style=flat&color=orange&label=visitors)
@@ -68,6 +67,8 @@ Statistics Credit: <a href='https://github.com/anuraghazra/github-readme-stats'>
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
 ![Windows](https://shields.io/badge/Windows--9cf?logo=Windows&style=flat)
 ![Mac](https://shields.io/badge/MacOS--9cf?logo=Apple&style=flat)
+<br>
+![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=flat&logo=edX&logoColor=white)
 
 
 <h3 align="center">Cheat Sheets!</h3>
