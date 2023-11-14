@@ -44,14 +44,14 @@ Statistics Credit: <a href='https://github.com/anuraghazra/github-readme-stats'>
 
 <table>
   <tr>
-    <th>front-end</th>
-    <th>back-end</th>
-    <th>other</th>
+    <th><a name="front-end">Front End</a></th>
+    <th><a name="back-end">Back End</a></th>
+    <th><a name="other">Other</a></th>
   </tr>
   <tr>
   <td>
 
-  | interpreted | compiled |
+  | Interpreted | Compiled |
   | ----------- | ----------- |
   | ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E) | |
   | ![Typescript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat) | |
@@ -68,7 +68,7 @@ Statistics Credit: <a href='https://github.com/anuraghazra/github-readme-stats'>
   </td>
   <td>
 
-  | utility |
+  | Utility |
   | ----------- |
   | ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white) |
   | ![Json](https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white) |
@@ -80,7 +80,7 @@ Statistics Credit: <a href='https://github.com/anuraghazra/github-readme-stats'>
 
 <h3>Tools I use<h3>
 
-| programs/OS | libraries | frameworks | runtime-envs. | platforms |
+| Programs/OS | Libraries | Frameworks | Runtime Envs. | Platforms |
 | ------------- | ---------- | ----------- | ---------------- | ---------- |
 | ![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)  | ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white)  | ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat=express&logoColor=%2361DAFB) | ![Nodejs](https://img.shields.io/badge/-Node.js-43853d?style=flat&logo=Node.js&logoColor=white)  | ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)  |
 | ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white) | ![React](https://shields.io/badge/react-black?logo=react&style=flat) | ![Jest](https://img.shields.io/badge/Jest-282C34?style=flat&logo=jest&logoColor=C21325) | | ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?style=flat&logo=github&logoColor=white) |
