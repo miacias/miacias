@@ -44,9 +44,9 @@ Statistics Credit: <a href='https://github.com/anuraghazra/github-readme-stats'>
 
 <table>
   <tr>
-    <th><a name="front-end">Front End</a></th>
-    <th><a name="back-end">Back End</a></th>
-    <th><a name="other">Other</a></th>
+    <th>Front End</th>
+    <th>Back End</th>
+    <th>Other</th>
   </tr>
   <tr>
   <td>
