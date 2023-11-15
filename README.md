@@ -40,7 +40,7 @@ Statistics Credit: <a href='https://github.com/anuraghazra/github-readme-stats'>
 <!-- table with three inner tables -->
 <h3>Languages I use<h3>
 
-<table>
+<table class="no-anchor-link">
   <tr>
     <th>Front End</th>
     <th>Back End</th>
