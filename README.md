@@ -38,7 +38,7 @@ Thanks for stopping by!
 Statistics Credit: <a href='https://github.com/anuraghazra/github-readme-stats'>Anurag Hazra</a>
 
 <!-- table with three inner tables -->
-<h3>Languages I use<h3>
+<h3>Languages I use</h3>
 
 <table class="no-anchor-link">
   <tr>
@@ -76,7 +76,7 @@ Statistics Credit: <a href='https://github.com/anuraghazra/github-readme-stats'>
 
 </table>
 
-<h3>Tools I use<h3>
+<h3>Tools I use</h3>
 
 | Programs/OS | Libraries | Frameworks | Runtime Envs. | Platforms |
 | ------------- | ---------- | ----------- | ---------------- | ---------- |
@@ -92,7 +92,7 @@ Statistics Credit: <a href='https://github.com/anuraghazra/github-readme-stats'>
 | ![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=flat) |
 
 
-<h3>Learning Resources I use<h3>
+<h3>Learning Resources I use</h3>
 
 | Schools | Docs | Forums | Tutorials/Articles |
 | ----------- | ----------- | ----------- | ----------- |
