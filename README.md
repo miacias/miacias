@@ -8,7 +8,7 @@ Thanks for stopping by!
 
 
 - 💬 Ask me about: <b> Art | Overwatch 2 | Streaming | Dogs | Music </b>
-- 🔭 I’m currently working on [![Setzu LLC Badge](https://img.shields.io/badge/Setzu%20LLC-231B2B?style=flat)]('https://setzullc.com') Inventory Management System
+- 🔭 I’m currently working on [![Setzu LLC Badge](https://img.shields.io/badge/Setzu%20LLC-231B2B?style=flat)]('https://www.linkedin.com/company/setzu-llc/') Inventory Management System
 - 🌱 I’m currently learning Jest unit and integration testing
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/Email%20Me!-EA4335?logo=gmail&logoColor=fff&style=flat)](mailto:miaciasullo@gmail.com)
 - 😄 Pronouns: she/her/hers
