@@ -7,17 +7,16 @@ Thanks for stopping by!
 <h2>Here's a bit about me:</h2>
 
 
-- 💬 Ask me about: <b> Art | Overwatch 2 | Streaming | Dogs | Music </b>
-- 🔭 I’m currently working on [![Setzu LLC Badge](https://img.shields.io/badge/Setzu%20LLC-231B2B?style=flat)](https://www.linkedin.com/company/setzu-llc/) Inventory Management System
-- 🌱 I’m currently learning Jest unit and integration testing
+- 🔭 I’m currently working on [![Setzu LLC Badge](https://img.shields.io/badge/Setzu%20LLC-a0faa3?style=flat)](https://www.linkedin.com/company/setzu-llc/) Inventory Management System
+- 🌱 I’m currently learning ![Jest Badge](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff&style=flat) unit and integration testing and some ![Python](https://img.shields.io/badge/Python3-3670A0?style=flat&logo=python&logoColor=ffdd54)
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/Email%20Me!-EA4335?logo=gmail&logoColor=fff&style=flat)](mailto:miaciasullo@gmail.com)
+- 💬 Ask me about: <b> Art | Overwatch 2 | Streaming | Dogs | Music </b>
+- ⚡ Fun fact: <i>Besides programming, I'm also a human language linguist and a French teacher, and I love to try new things.</i>
 - 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: <i>Besides programming, I'm also a linguist and a French teacher, and I love to try new things.</i>
 
 <h2> Connect with me on 👇</h2>
 <a href="https://www.linkedin.com/in/miaciasullo/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat" />
-</a>
 </a> 
 <a href="https://leetcode.com/miacias/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=fff&style=flat" />
@@ -26,7 +25,7 @@ Thanks for stopping by!
 <h2>My Work</h2>
 
 <p>I am currently working on propriatery material for Setzu LLC. Please ask for a demo!</p>
-<p>Much of my recent public work has come from boot camp, intensive weekly challenges inspired by learning MERN full stack development. Here's some stats about my recent work! I invite you to <a href='https://miacias.github.io/portfolio' target='_blank'>explore my portfolio here</a>.</p>
+<p>Much of my recent public work has come from boot camp, intensive weekly challenges inspired by learning MERN full stack development. I invite you to <a href='https://miacias.github.io/portfolio' target='_blank'>explore my portfolio here</a>.Here's some stats about my recent work! </p>
 
 <!-- github statistics with icons -->
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=miacias&show_icons=true&icon_color=FDF58D&bg_color=30,F7C749,FA7F60,DF5A77,5F2A67&title_color=fff&text_color=fff&hide_border=true&custom_title=My+Recent+Stats&hide=contribs)
