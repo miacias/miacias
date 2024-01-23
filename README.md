@@ -1,31 +1,29 @@
-<h1>Welcome to my GitHub!</h1>
+# Welcome to my GitHub!
 
 Thanks for stopping by! 
 <!-- total profile views -->
 ![Totals Hits](https://komarev.com/ghpvc/?username=miacias&style=flat&color=orange&label=visitors)
 
-<h2>Here's a bit about me:</h2>
-
+## Here's a bit about me:
 
 - 🔭 I’m currently working on [![Setzu LLC Badge](https://img.shields.io/badge/Setzu%20LLC-a0faa3?style=flat)](https://www.linkedin.com/company/setzu-llc/) Inventory Management System
 - 🌱 I’m currently learning ![Jest Badge](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff&style=flat) unit and integration testing and some ![Python](https://img.shields.io/badge/Python3-3670A0?style=flat&logo=python&logoColor=ffdd54)
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/Email%20Me!-EA4335?logo=gmail&logoColor=fff&style=flat)](mailto:miaciasullo@gmail.com)
-- 💬 Ask me about: <b> Art | Overwatch 2 | Streaming | Dogs | Music </b>
-- ⚡ Fun fact: <i>Besides programming, I'm also a human language linguist and a French teacher, and I love to try new things.</i>
+- 💬 Ask me about: <b> Art | Overwatch 2 | Streaming | My Catahoula Dog | Music </b>
+- ⚡ Fun fact: <i>Besides programming, I'm also a human language linguist and a French teacher, and I love to try new things.</i> 
 - 😄 Pronouns: she/her/hers
 
-<h2> Connect with me on 👇</h2>
-<a href="https://www.linkedin.com/in/miaciasullo/" target="_blank" style="text-decoration: none !important;">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat" />
-</a>&nbsp;
-<a href="https://leetcode.com/miacias/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=fff&style=flat" />
-</a>
 
-<h2>My Work</h2>
+## Connect with me on 👇
 
-<p>I am currently working on propriatery material for Setzu LLC. Please ask for a demo!</p>
-<p>Much of my recent public work has come from boot camp, intensive weekly challenges inspired by learning MERN full stack development. I invite you to <a href='https://miacias.github.io/portfolio' target='_blank'>explore my portfolio here</a>.Here's some stats about my recent work! </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat)](https://www.linkedin.com/in/miaciasullo/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=fff&style=flat)](https://leetcode.com/miacias/)
+
+
+## My Work
+
+I am currently working on propriatery material for Setzu LLC. Please ask for a private demo! I invite you to explore the rest of [![my portfolio](https://img.shields.io/badge/explore%20my%20portfolio-EA4335?&style=flat)](https://miacias.github.io/portfolio) here!
+Here's some stats about my recent work:
 
 <!-- github statistics with icons -->
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=miacias&show_icons=true&icon_color=FDF58D&bg_color=30,F7C749,FA7F60,DF5A77,5F2A67&title_color=fff&text_color=fff&hide_border=true&custom_title=My+Recent+Stats&hide=contribs)
@@ -37,7 +35,7 @@ Thanks for stopping by!
 Statistics Credit: <a href='https://github.com/anuraghazra/github-readme-stats'>Anurag Hazra</a>
 
 <!-- table with three inner tables -->
-<h3>Languages I use</h3>
+### Languages I use
 
 <table class="no-anchor-link">
   <tr>
@@ -75,7 +73,7 @@ Statistics Credit: <a href='https://github.com/anuraghazra/github-readme-stats'>
 
 </table>
 
-<h3>Tools I use</h3>
+### Tools I use
 
 | Programs/OS | Libraries | Frameworks | Runtime Envs. | Platforms |
 | ------------- | ---------- | ----------- | ---------------- | ---------- |
@@ -91,39 +89,10 @@ Statistics Credit: <a href='https://github.com/anuraghazra/github-readme-stats'>
 | ![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=flat) |
 
 
-<h3>Learning Resources I use</h3>
+### Learning Resources I use
 
 | Schools | Docs | Forums | Tutorials/Articles |
 | ----------- | ----------- | ----------- | ----------- |
 | ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=flat&logo=edX&logoColor=white) | ![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=flat&logo=mdnwebdocs&logoColor=white)  | ![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-red?style=flat) | ![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=flat&logo=geeksforgeeks&logoColor=35914c) |
 | ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?style=flat&logo=freecodecamp&logoColor=green) |
 | ![Sololearn Badge](https://img.shields.io/badge/SoloLearn-149EF2?logo=sololearn&logoColor=fff&style=flat) |
-
-<br>
-
-
-<h3 align="start">Cheat Sheets!</h3>
-
-<div align="start">
-
-| Helpers by <a href='https://github.com/lifeparticle'>LifeParticle</a> |
-| :-----------------------------------------------------------------------------------------------------: |
-| [Terminal-Commands-Cheatsheet](https://github.com/lifeparticle/Terminal-Commands-Cheatsheet)  |
-| [Git-Cheatsheet](https://github.com/lifeparticle/Git-Cheatsheet)                          |
-| [JS-Cheatsheet](https://github.com/lifeparticle/JS-Cheatsheet)                           |
-| [CSS-Cheatsheet](https://github.com/lifeparticle/CSS-Cheatsheet)                         |
-| [JSON-Cheatsheet](https://github.com/lifeparticle/JSON-Cheatsheet)                       |
-| [Ruby-Cheatsheet](https://github.com/lifeparticle/Ruby-Cheatsheet)                        |
-| [Python-Cheatsheet](https://github.com/lifeparticle/Python-Cheatsheet)                     |
-| [Java-Cheatsheet](https://github.com/lifeparticle/Java-Cheatsheet)                        |
-| [C-Sharp-Cheatsheet](https://github.com/lifeparticle/C-Sharp-Cheatsheet)                   |
-| [PHP-Cheatsheet](https://github.com/lifeparticle/PHP-Cheatsheet)                          |
-| [HTML-Cheatsheet](https://github.com/lifeparticle/HTML-Cheatsheet)                        |
-| [Markdown-Cheatsheet](https://github.com/lifeparticle/Markdown-Cheatsheet)                  |
-| [MySQL-Snippets](https://github.com/lifeparticle/MySQL-Snippets)                          |
-| [PostgreSql-Snippets](https://github.com/lifeparticle/PostgreSql-Snippets)                    |
-| [SQLite-Cheatsheet](https://github.com/lifeparticle/SQLite-Cheatsheet)                       |
-| [GraphQL-Cheatsheet](https://github.com/lifeparticle/GraphQL-Cheatsheet)                    |
-| [Vercel-Cheatsheet](https://github.com/lifeparticle/Vercel-Cheatsheet)                       |
-    
-</div>
