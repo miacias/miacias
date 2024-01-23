@@ -15,9 +15,9 @@ Thanks for stopping by!
 - 😄 Pronouns: she/her/hers
 
 <h2> Connect with me on 👇</h2>
-<a href="https://www.linkedin.com/in/miaciasullo/" target="_blank">
+<a href="https://www.linkedin.com/in/miaciasullo/" target="_blank" style="text-decoration: none !important;">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat" />
-</a> 
+</a>&nbsp;
 <a href="https://leetcode.com/miacias/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=fff&style=flat" />
 </a>
