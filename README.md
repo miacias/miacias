@@ -22,7 +22,7 @@ Thanks for stopping by!
 
 ## My Work
 
-I am currently working on propriatery material for Setzu LLC. Please ask for a private demo! I invite you to explore the rest of [![my portfolio](https://img.shields.io/badge/explore%20my%20portfolio-EA4335?&style=flat)](https://miacias.github.io/portfolio) here!
+I am currently working on propriatery material for Setzu LLC. Please ask for a private demo! I invite you to explore the rest of [![my portfolio](https://img.shields.io/badge/My%20Portfolio-EA4335?&style=flat)](https://miacias.github.io/portfolio) here!
 Here's some stats about my recent work:
 
 <!-- github statistics with icons -->
