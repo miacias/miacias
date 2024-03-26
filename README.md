@@ -6,8 +6,8 @@ Thanks for stopping by!
 
 ## Here's a bit about me:
 
-- 🔭 I’m currently working on [![Setzu LLC Badge](https://img.shields.io/badge/Setzu%20LLC-a0faa3?style=flat)](https://www.linkedin.com/company/setzu-llc/) Inventory Management System and [![Lee's Cleaners Badge](https://img.shields.io/badge/Lees%20Cleaners-a0faa3?style=flat)](https://lees-cleaners.vercel.app/) business site
-- 🌱 I’m currently learning ![Jest Badge](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff&style=flat) unit and integration testing and some ![Python](https://img.shields.io/badge/Python3-3670A0?style=flat&logo=python&logoColor=ffdd54)
+- 🔭 I’m currently working on [![Setzu LLC Badge](https://img.shields.io/badge/Setzu%20LLC-a0faa3?style=flat)](https://www.linkedin.com/company/setzu-llc/) Inventory Management System and [![Alternate Universes Badge](https://img.shields.io/badge/Alternate%20Universes-a0faa3?style=flat)](https://alternateu.com/) business site modernization
+- 🌱 I’m currently learning ![Jest Badge](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff&style=flat) unit and integration testing, ![NextJS](https://img.shields.io/badge/Next.JS-000000?style=flat&logo=NextdotJS&logoColor=white), and ![WordPress](https://img.shields.io/badge/WordPress-8A2BE2?logo=wordpress)
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/Email%20Me!-EA4335?logo=gmail&logoColor=fff&style=flat)](mailto:miaciasullo@gmail.com)
 - 💬 Ask me about: <b> Art | Overwatch 2 | Streaming | My Catahoula Dog | Music </b>
 - ⚡ Fun fact: <i>Besides programming, I'm also a human language linguist and a French teacher, and I love to try new things.</i> 
