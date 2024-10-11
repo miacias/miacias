@@ -6,8 +6,8 @@ Thanks for stopping by!
 
 ## Here's a bit about me:
 
-- 🔭 I’m currently working on [![Setzu LLC Badge](https://img.shields.io/badge/Setzu%20LLC-a0faa3?style=flat)](https://www.linkedin.com/company/setzu-llc/) Inventory Management System and [![Alternate Universes Badge](https://img.shields.io/badge/Alternate%20Universes-a0faa3?style=flat)](https://alternateu.com/) business site modernization
-- 🌱 I’m currently learning ![Jest Badge](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff&style=flat) unit and integration testing, ![NextJS](https://img.shields.io/badge/Next.JS-000000?style=flat&logo=NextdotJS&logoColor=white), and ![WordPress](https://img.shields.io/badge/WordPress-21759b?logo=wordpress)
+- 🔭 I’m currently working on [![Setzu LLC Badge](https://img.shields.io/badge/Setzu%20LLC-a0faa3?style=flat)](https://www.linkedin.com/company/setzu-llc/) Inventory Management System (MERN) and [![Alternate Universes Badge](https://img.shields.io/badge/Alternate%20Universes-a0faa3?style=flat)](https://alternateu.com/) business site modernization (Nextjs & WordPress)
+- 🌱 I’m currently learning ![Jest Badge](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff&style=flat) unit and integration testing and ![WordPress](https://img.shields.io/badge/WordPress-21759b?logo=wordpress) infrastructure
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/Email%20Me!-EA4335?logo=gmail&logoColor=fff&style=flat)](mailto:miaciasullo@gmail.com)
 - 💬 Ask me about: <b> Art | Overwatch 2 | Streaming | My Catahoula Dog | Music </b>
 - ⚡ Fun fact: <i>Besides programming, I'm also a human language linguist and a French teacher, and I love to try new things.</i> 
@@ -22,7 +22,7 @@ Thanks for stopping by!
 
 ## My Work
 
-I am currently working on propriatery material for Setzu LLC. Please ask for a private demo! I invite you to explore the rest of [![my portfolio](https://img.shields.io/badge/My%20Portfolio-EA4335?&style=flat)](https://miaciasullo.com) as well!
+I am currently working on propriatery material for Setzu LLC and Alternate Universes LLC. Please ask for a private demo! I invite you to explore the rest of [![my portfolio](https://img.shields.io/badge/My%20Portfolio-EA4335?&style=flat)](https://miaciasullo.com) as well!
 Here's some stats about my recent work:
 
 <!-- github statistics with icons -->
