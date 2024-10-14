@@ -59,6 +59,7 @@ Statistics Credit: <a href='https://github.com/anuraghazra/github-readme-stats'>
   | SQL | NoSQL |
   | ----------- | ----------- |
   | ![MySQL](https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=flat&logoColor=white&labelColor=blue) | ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat&logo=mongodb&logoColor=white) |
+  | ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-D83B01?style=flat&logo=oracle&logoColor=white) | |
 
   </td>
   <td valign="top">
