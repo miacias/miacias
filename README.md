@@ -8,7 +8,7 @@ Thanks for stopping by!
 
 <!-- - 🔭 I’m currently working on [![Setzu LLC Badge](https://img.shields.io/badge/Setzu%20LLC-a0faa3?style=flat)](https://www.linkedin.com/company/setzu-llc/) Inventory Management System (MERN) and -->
 - 🔭 I just published a business site modernization project for [![Alternate Universes Badge](https://img.shields.io/badge/Alternate%20Universes-a0faa3?style=flat)](https://alternateu.com/) using Nextjs and a WordPress CMS
-- 🌱 I’m currently learning ![Jest Badge](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff&style=flat) unit and integration testing and ![WordPress](https://img.shields.io/badge/WordPress-21759b?logo=wordpress) infrastructure
+- 🌱 I’m currently learning about ![WordPress](https://img.shields.io/badge/WordPress-21759b?logo=wordpress) infrastructure
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/Email%20Me!-EA4335?logo=gmail&logoColor=fff&style=flat)](mailto:miaciasullo@gmail.com)
 - 💬 Ask me about: <b> Art | Overwatch 2 | Streaming | My Catahoula Dog | Music </b>
 - ⚡ Fun fact: <i>Besides programming, I'm also a human language linguist and a French teacher, and I love to try new things.</i> 
